@@ -1,0 +1,8 @@
+Q: Explain what the Blockchain is in your own words. 
+A: A blockchain is a distributed database (runs on multiple nodes across a network), usually open (but not always - see private blockchains too) that allows you to store (in blocks) and interact with data.
+
+Q. Explain what a Smart Contract is.
+A. A smartcontract is code stored on the blockchain that allows you to intereract and change data on said blockchain. 
+
+Q:Explain the difference between a script and a transaction.
+A: A script reads data from a blockchain (free) and a transaction alters the state of data on the blockchain (costs gas)
